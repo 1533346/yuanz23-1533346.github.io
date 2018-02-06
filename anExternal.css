@@ -1,0 +1,45 @@
+p{
+
+
+}
+
+img{
+	width:50px;
+	height:50px;
+	margin: 20px;
+}
+
+
+#p01{
+	font-family: verdana;
+}
+
+#p02{
+	font-family: "Times New Roman", Times, serif;
+	border: 3px dashed black;
+}
+
+body{
+	background:url("https://static.pexels.com/photos/531880/pexels-photo-531880.jpeg");
+
+}
+
+.container{
+	position: relative;
+	text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
